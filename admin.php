@@ -343,5 +343,3 @@ if ($_SESSION['UserRight']!="admin"){
 		
 </body>
 </html>
-
-<?php //setcookie('one','one',time()+0);	?>
