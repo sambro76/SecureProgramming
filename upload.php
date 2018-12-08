@@ -1,11 +1,11 @@
 <?php
 /*
  ============================================================================
- Name        : SP Share
+ Project name: SP Share
  Author      : Samnang Chay, Id: 2321
  Version     : 1.0.0
  Copyright   : 2018
- Description : CSE5382-Assignment 3
+ Description : Online File Sharing with Security
  ============================================================================
  */
  
@@ -74,12 +74,3 @@ if (isset($_SESSION["username"])){
 } else {
 	header('location: index.php?logout=1');
 }
-/*
-
-if(!empty($result->ids)){
-	foreach($result->ids as $id){
-		echo "".F_PATH.H_FILE."?". $id;
-	}
-}
-
-*/
