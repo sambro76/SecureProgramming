@@ -5,7 +5,7 @@
  Author      : Samnang Chay, Id: 2321
  Version     : 1.0.0
  Copyright   : 2018
- Description : CSE5382
+ Description : Online File Sharing with Security
  ============================================================================
  */
 
